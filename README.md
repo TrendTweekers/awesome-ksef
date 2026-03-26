@@ -12,6 +12,7 @@
 - [Walidatory](#walidatory)
 - [Oprogramowanie do fakturowania](#oprogramowanie-do-fakturowania)
 - [Narzędzia dla programistów](#narzędzia-dla-programistów)
+- [Agent Skills](#agent-skills)
 - [Monitory i narzędzia pomocnicze](#monitory-i-narzędzia-pomocnicze)
 - [Konwertery](#konwertery)
 - [Zasoby edukacyjne](#zasoby-edukacyjne)
@@ -54,6 +55,10 @@ npx @ksefuj/validator faktura.xml
 
 - [KSeF-GUI](https://github.com/marcinbojko/ksef-gui) - Fork kcksefcli z lokalnym interfejsem przeglądarkowym do pobierania faktur z KSeF, powiadomieniami (Slack, Teams, e-mail) i eksportem CSV; dostępny jako obraz Docker. Open source (GPL-3.0).
 - [KSeFCLI (kcksefcli)](https://github.com/Kamilcuk/ksefcli) - Narzędzie CLI (C#) z ponad 30 komendami do zarządzania fakturami, certyfikatami i sesjami w KSeF API; binaria dla Linux x64 i Windows. Open source (GPL-3.0).
+
+## Agent Skills
+
+- [ksef-fa3](https://github.com/ksefuj/ksefuj/tree/main/skills/ksef-fa3) - Skill dla Claude Code do generowania i walidacji faktur FA(3); zawiera mapowanie schematu XSD, przykłady XML dla 7 scenariuszy (WDT, eksport, odwrotne obciążenie, zaliczki, korekty) oraz referencję wszystkich 42 reguł semantycznych. Open source (Apache 2.0).
 
 ## Monitory i narzędzia pomocnicze
 
