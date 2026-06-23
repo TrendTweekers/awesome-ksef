@@ -35,6 +35,7 @@
 - [Sorgera KSeF Validator](https://services.sorgera.com/ksef/validator) - Walidator FA(3) klasy enterprise z podświetlaniem błędów na poziomie linii XML i zaawansowanymi komunikatami diagnostycznymi. Darmowy.
 - [fa3.site](https://fa3.site) - Przeglądarkowy walidator FA(3) z podglądem wizualizacji faktury, zbudowany w React. Darmowy.
 - [KSeF Assistant](https://ksefu.pl) - Lokalny walidator XML z weryfikacją reguł biznesowych, sprawdzaniem NIP/IBAN i generowaniem raportów PDF. Freemium (10 walidacji miesięcznie za darmo).
+- [KSeF Guard](https://www.ksefguard.pl) - Walidator FA(3) offline (aplikacja desktopowa dla Windows oraz CLI) weryfikujący zgodność z XSD oraz 128 regułami biznesowymi przed wysłaniem do KSeF. Freemium (10 plików dziennie za darmo).
 
 ## Oprogramowanie do fakturowania
 
